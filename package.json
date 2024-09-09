@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "priya patel",
+  "author": "dipali hadiya",
   "license": "ISC",
   "description": "",
   "dependencies": {
